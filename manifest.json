@@ -6,7 +6,7 @@
     "icons": {
         "16": "link-solid.svg"
     },
-    "browser_action": {
+    "action": {
         "default_icon": "link-solid.svg",
         "default_popup": "popup.html"
     }
